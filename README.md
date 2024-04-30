@@ -10,6 +10,10 @@ It is provided here as a convenience to the writers, reviewers and editors of Ma
 The official Mayastor User Reference for the latest GA release can be found [here](https://mayastor.gitbook.io/) 
 {% endhint %}
 
+{% hint style="danger" %}
+This is not the latest version of the documentation. Refer to the [OpenEBS Documentation](https://openebs.io/docs) to view the latest documentation.
+{% endhint %}
+
 ## What is Mayastor?
 
 **Mayastor** is a performance optimised "Container Attached Storage" (CAS) solution of the CNCF project [**OpenEBS**](https://openebs.io/). The goal of OpenEBS is to extend Kubernetes with a declarative data plane, providing flexible persistent storage for stateful applications.
